@@ -32,3 +32,8 @@ Please note that the **Workbench is NOT a supported product of or supported by s
 * [Workbench Stackoverflow](https://salesforce.stackexchange.com/questions/tagged/workbench)
 * [Workbench Issues, Bugs, & Feature Requests](https://github.com/forceworkbench/forceworkbench/issues)
 * [Workbench Source](https://github.com/forceworkbench/forceworkbench)
+
+Learning more about Workbench
+-----------------------------
+ - [Wiki](https://github.com/forceworkbench/forceworkbench/wiki)
+ - [FAQs](https://github.com/forceworkbench/forceworkbench/wiki#faq)
