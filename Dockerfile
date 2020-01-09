@@ -1,5 +1,5 @@
 FROM php:7.2-apache
-ENV WORKBENCH_VERSION=47.0.0
+ENV WORKBENCH_VERSION=48.0.0
 
 #get libxml libs for php_soap.so
 RUN apt-get update \
